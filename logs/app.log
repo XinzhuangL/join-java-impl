@@ -1,0 +1,68 @@
+2024-07-18 10:17:39 [main] INFO  MainTest - 1, Alice, 101, 101, Human Resources
+2024-07-18 10:17:39 [main] INFO  MainTest - 2, Bob, 102, 102, Marketing
+2024-07-18 10:17:39 [main] INFO  MainTest - 3, Charlie, 103, 103, Engineering
+2024-07-18 10:17:39 [main] INFO  MainTest - 4, David, 101, 101, Human Resources
+2024-07-18 10:17:39 [main] INFO  MainTest - 5, Eve, 104, 104, Customer Support
+2024-07-18 10:29:14 [main] INFO  MainTest - 1, Alice, 101, 101, Human Resources
+2024-07-18 10:29:14 [main] INFO  MainTest - 2, Bob, 102, 102, Marketing
+2024-07-18 10:29:14 [main] INFO  MainTest - 3, Charlie, 103, 103, Engineering
+2024-07-18 10:29:14 [main] INFO  MainTest - 4, David, 101, 101, Human Resources
+2024-07-18 10:29:14 [main] INFO  MainTest - 5, Eve, 104, 104, Customer Support
+2024-07-18 10:29:40 [main] INFO  MainTest - 1, Alice, 101,101, Human Resources
+2024-07-18 10:29:40 [main] INFO  MainTest - 2, Bob, 102,102, Marketing
+2024-07-18 10:29:40 [main] INFO  MainTest - 3, Charlie, 103,103, Engineering
+2024-07-18 10:29:40 [main] INFO  MainTest - 4, David, 101,101, Human Resources
+2024-07-18 10:29:40 [main] INFO  MainTest - 5, Eve, 104,104, Customer Support
+2024-07-18 10:29:40 [main] INFO  MainTest - 6, Frank, 105,
+2024-07-18 10:29:40 [main] INFO  MainTest - 7, Grace, null,
+2024-07-18 10:43:50 [main] INFO  MainTest - 1, Alice, 101, 101, Human Resources
+2024-07-18 10:43:50 [main] INFO  MainTest - 2, Bob, 102, 102, Marketing
+2024-07-18 10:43:50 [main] INFO  MainTest - 3, Charlie, 103, 103, Engineering
+2024-07-18 10:43:50 [main] INFO  MainTest - 4, David, 101, 101, Human Resources
+2024-07-18 10:43:50 [main] INFO  MainTest - 4, David Two, 102, 102, Marketing
+2024-07-18 10:43:50 [main] INFO  MainTest - 5, Eve, 104, 104, Customer Support
+2024-07-18 10:46:30 [main] INFO  MainTest - 1, Alice, 101,101, Human Resources
+2024-07-18 10:46:30 [main] INFO  MainTest - 2, Bob, 102,102, Marketing
+2024-07-18 10:46:30 [main] INFO  MainTest - 3, Charlie, 103,103, Engineering
+2024-07-18 10:46:30 [main] INFO  MainTest - 4, David, 101,101, Human Resources
+2024-07-18 10:46:30 [main] INFO  MainTest - 4, David Two, 102,102, Marketing
+2024-07-18 10:46:30 [main] INFO  MainTest - 5, Eve, 104,104, Customer Support
+2024-07-18 10:46:30 [main] INFO  MainTest - 6, Frank, 105,
+2024-07-18 10:46:30 [main] INFO  MainTest - 7, Grace, null,
+2024-07-18 10:46:57 [main] INFO  MainTest - 1, Alice, 101, 101, Human Resources
+2024-07-18 10:46:57 [main] INFO  MainTest - 2, Bob, 102, 102, Marketing
+2024-07-18 10:46:57 [main] INFO  MainTest - 3, Charlie, 103, 103, Engineering
+2024-07-18 10:46:57 [main] INFO  MainTest - 4, David, 101, 101, Human Resources
+2024-07-18 10:46:57 [main] INFO  MainTest - 4, David Two, 102, 102, Marketing
+2024-07-18 10:46:57 [main] INFO  MainTest - 5, Eve, 104, 104, Customer Support
+2024-07-18 10:47:01 [main] INFO  MainTest - 1, Alice, 101, 101, Human Resources
+2024-07-18 10:47:01 [main] INFO  MainTest - 2, Bob, 102, 102, Marketing
+2024-07-18 10:47:01 [main] INFO  MainTest - 3, Charlie, 103, 103, Engineering
+2024-07-18 10:47:01 [main] INFO  MainTest - 4, David, 101, 101, Human Resources
+2024-07-18 10:47:01 [main] INFO  MainTest - 4, David Two, 102, 102, Marketing
+2024-07-18 10:47:01 [main] INFO  MainTest - 5, Eve, 104, 104, Customer Support
+2024-07-18 10:47:01 [main] INFO  MainTest - 6, Frank, 105, 
+2024-07-18 10:47:01 [main] INFO  MainTest - 7, Grace, null, 
+2024-07-18 11:01:19 [main] INFO  MainTest - 1, Alice, 101, 101, Human Resources
+2024-07-18 11:01:19 [main] INFO  MainTest - 2, Bob, 102, 102, Marketing
+2024-07-18 11:01:19 [main] INFO  MainTest - 3, Charlie, 103, 103, Engineering
+2024-07-18 11:01:19 [main] INFO  MainTest - 4, David, 101, 101, Human Resources
+2024-07-18 11:01:19 [main] INFO  MainTest - 4, David Two, 102, 102, Marketing
+2024-07-18 11:01:19 [main] INFO  MainTest - 5, Eve, 104, 104, Customer Support
+2024-07-18 11:01:41 [main] INFO  MainTest - 1, Alice, 101, 101, Human Resources
+2024-07-18 11:01:41 [main] INFO  MainTest - 2, Bob, 102, 102, Marketing
+2024-07-18 11:01:41 [main] INFO  MainTest - 3, Charlie, 103, 103, Engineering
+2024-07-18 11:01:41 [main] INFO  MainTest - 4, David, 101, 101, Human Resources
+2024-07-18 11:01:41 [main] INFO  MainTest - 4, David Two, 102, 102, Marketing
+2024-07-18 11:01:41 [main] INFO  MainTest - 5, Eve, 104, 104, Customer Support
+2024-07-18 11:16:09 [main] ERROR impl.LeftHashJoin - vo.Department
+2024-07-18 11:16:28 [main] ERROR impl.LeftHashJoin - vo.Department
+2024-07-18 11:18:18 [main] ERROR impl.LeftHashJoin - vo.Department
+2024-07-18 11:18:34 [main] INFO  MainTest - 1, Alice, 101, 101, Human Resources
+2024-07-18 11:18:35 [main] INFO  MainTest - 2, Bob, 102, 102, Marketing
+2024-07-18 11:18:35 [main] INFO  MainTest - 3, Charlie, 103, 103, Engineering
+2024-07-18 11:18:35 [main] INFO  MainTest - 4, David, 101, 101, Human Resources
+2024-07-18 11:18:35 [main] INFO  MainTest - 4, David Two, 102, 102, Marketing
+2024-07-18 11:18:35 [main] INFO  MainTest - 5, Eve, 104, 104, Customer Support
+2024-07-18 11:18:35 [main] INFO  MainTest - 6, Frank, 105, null, null
+2024-07-18 11:18:35 [main] INFO  MainTest - 7, Grace, null, null, null
